@@ -1,5 +1,4 @@
 bbb
 aaa
-ccc
 ddd
 eeee
